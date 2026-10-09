@@ -1,0 +1,9 @@
+{
+  "payload": {
+    "product": "Tech3ScraperDesktop",
+    "channel": "stable",
+    "version": "0.0.0",
+    "status": "no_release"
+  },
+  "signature": "33e20213b63eb2fab24401e7f7f4a3ee3445c5bf7baa80ef242aedbbdc22df4fe8971597d8c375ab5647d0dd3bf35900b920ef90e80cf7231b3df13f05f3db08"
+}
