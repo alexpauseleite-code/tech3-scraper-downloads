@@ -2,13 +2,13 @@
   "payload": {
     "product": "Tech3ScraperDesktop",
     "channel": "uat",
-    "version": "0.3.6",
+    "version": "0.3.7",
     "minimum_schema": 1,
     "maximum_schema": 1,
-    "url": "https://github.com/alexpauseleite-code/tech3-scraper-downloads/releases/download/v0.3.6/Tech3ScraperDesktopSetup-0.3.6.exe",
-    "bytes": 421158668,
-    "sha256": "dd6be491c06fa31c27241128dfafa3eb62359ce40e5ddada06d8de9d29defe11",
-    "source_commit": "29d0dbe873f0820285cd006a04c32a26b54eab2b"
+    "url": "https://github.com/alexpauseleite-code/tech3-scraper-downloads/releases/download/v0.3.7/Tech3ScraperDesktopSetup-0.3.7.exe",
+    "bytes": 421162243,
+    "sha256": "71ea2b917f7de7a7b8f9de8e625cab0d756b9a5e07483db9a3eb7c587b4f6a39",
+    "source_commit": "c7dcb5534661bf41e9b3265f7aeabfecd0d4dbf7"
   },
-  "signature": "145e3d5fed5cc280c4cb1e8c247d8ea6b300d5979662d534e9274f57d29ec7a77780cda46668e0c801f8cbc67d801ee5570cf26597cf027318b868369d637407"
+  "signature": "e2a33a21c7512c885144d4ba5921d6a5e5927940f53c5e74a9ecd6295b73930723d2391e43fe0aa28c99012a10b4affc2b6e87345aa174d7dfe591fc3a256608"
 }
